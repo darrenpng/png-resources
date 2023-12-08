@@ -11,7 +11,7 @@
 
 - [Foreword](#foreword)
 - [75 Glorious Years](#75-glorious-years)
-- [Chapter 1 ~ Before the Missionaries Came](#chapter-I
+- [Chapter 1 ~ Before the Missionaries Came](#chapter-I)
 - [[#Chapter II.|Chapter 2 ~ The Coming of the Missionaries]]
 - [[#Chapter III.|Chapter 3 ~ New Arrivals]]
 - [[#Chapter IV.|Chapter 4 ~ The Foundation of the Daughters of our Lady of the Sacred Heart]]
