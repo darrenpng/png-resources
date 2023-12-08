@@ -10,7 +10,7 @@
 ---
 
 - [Foreword](#foreword.)
-- [75 Glorious Years](#75-glorious-years-.)
+- [75 Glorious Years](#75-glorious-years.)
 - [[#Chapter I.|Chapter 1 ~ Before the Missionaries Came]]
 - [[#Chapter II.|Chapter 2 ~ The Coming of the Missionaries]]
 - [[#Chapter III.|Chapter 3 ~ New Arrivals]]
