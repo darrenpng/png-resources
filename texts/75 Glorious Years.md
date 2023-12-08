@@ -54,6 +54,7 @@ Printed at the Catholic Mission Vunapope, P.O. Kokopo. T.N.G.
 
 
 ## 75 Glorious Years.
+
 ---
 
 It is 75 years since the first Catholic Missionaries landed on Matupit island. These were years of sacrifice, of success and failure - always of courage!.........
