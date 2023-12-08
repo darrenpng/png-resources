@@ -9,7 +9,7 @@
 ## Table of Contents
 ---
 
-- [[#FOREWORD.|Foreword]]
+- [Foreword](#FOREWORD.)
 - [[#75 Glorious Years.]]
 - [[#Chapter I.|Chapter 1 ~ Before the Missionaries Came]]
 - [[#Chapter II.|Chapter 2 ~ The Coming of the Missionaries]]
