@@ -1,4 +1,4 @@
-1882 - 1957
+1882 - 1957\
 *This is the Story of 75 Years since the First Catholic Missionaries landed in New Britain*
 
 By “Michael”
