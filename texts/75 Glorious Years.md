@@ -9,9 +9,9 @@
 ## Table of Contents
 ---
 
-- [Foreword](#foreword.)
-- [75 Glorious Years](#75-glorious-years.)
-- [[#Chapter I.|Chapter 1 ~ Before the Missionaries Came]]
+- [Foreword](#foreword)
+- [75 Glorious Years](#75-glorious-years)
+- [Chapter 1 ~ Before the Missionaries Came](#chapter-I
 - [[#Chapter II.|Chapter 2 ~ The Coming of the Missionaries]]
 - [[#Chapter III.|Chapter 3 ~ New Arrivals]]
 - [[#Chapter IV.|Chapter 4 ~ The Foundation of the Daughters of our Lady of the Sacred Heart]]
@@ -32,7 +32,7 @@ By “MICHAEL”\
 Printed at the Catholic Mission Vunapope, P.O. Kokopo. T.N.G.
 
 
-## FOREWORD.
+## FOREWORD
 ---
 
 *A mere glance at the size of this booklet will warn any prospective reader that he will find in these pages only the merest outline of the story of the Catholic Mission in New Britain.*
@@ -52,7 +52,7 @@ Printed at the Catholic Mission Vunapope, P.O. Kokopo. T.N.G.
 *Feast of Our Lady of Snows 1957.*\
 
 
-## 75 Glorious Years.
+## 75 Glorious Years
 
 ---
 
@@ -63,7 +63,7 @@ The story began in a hut made of paw-paw at Nodup and grew to the present Vicari
 It would be simple to commence with the landing of the first priests at Matupit - but we've considered it necessary to re-tell the fascinating story of the French "South Sea Bubble", for from it we can better understand how wild the country then was; how untamed the natives; and by first reading about this dismal colonization failure, we may the better appreciate the success of those who came, and stayed - and eventually succeeded.
 
 
-## Chapter I.
+## Chapter I
 ---
 ### BEFORE THE MISSIONARIES CAME
 
