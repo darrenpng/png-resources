@@ -6,7 +6,7 @@
 
 - The majority of this article is an extract from Chapter 5 of 75 Glorious Years.
 
----
+
 ## A Vision At Mass
 
 **By G. Church M.S.C.**
