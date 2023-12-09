@@ -96,8 +96,9 @@ THE REST OF THE RELEVANT MATTER IS CONTEMPORARY NEWS AND I HOPE SOME HISTORIAN W
 
 (J.W. CHOW MSC 15/5/1962 Croydon)
 
+---
 
-### A MISSIONARY PROJECT
+## A MISSIONARY PROJECT
 
 J. Madigan MSC.\
 AUST. Annales - March 1926\
@@ -135,8 +136,9 @@ Besides the natives in Rabaul, there are already a number of Chinese Catholics, 
 
 Such is a brief description of the present state of the Church in Rabaul. A great deal has been done, and a great deal more regains to be done. How I wish that a little of that missionary spirit which is so strong and deep in Australian Catholics would be directed here? When I look around at my large congregation at Rabaul on Sunday, many of the natives are standing outside the door. Very often these poor people have come long distances fasting in order to receive Holy Communion. I promise them we will have a nice Church some day! but when I cannot tell. Perhaps some of the many friends of the mission in Australia will help to hasten that day, and also share in the prayers of the sisters and children for their benefactors. At least, pray for the mission, pray that the number of the native Catholics - now 25000 - may be increased in this vast victory. - pray that Our Lord may inspire some generous benefactors to aid us in providing a suitable Church here in Rabaul for his Sacramental presence.
 
+---
 
-### REJOICING IN RABAUL
+## REJOICING IN RABAUL
 
 By J.G. Madigan MSC.\
 Aust. Annales Oct. 1926\
@@ -156,8 +158,9 @@ As we hope to begin the Church towards the closed of this year - and when once b
 
 It is very consoling to the missionaries to know that Australian Catholics are taking such a deep interest in the work of evangelising these native races. Morever, it is certain that Our Lord will bless with abundant fruits the efforts not only of missionaries, but also those who have made sacrifices to assist them.
 
+---
 
-### RABAUL ADVANCES
+## RABAUL ADVANCES
 
 By Rev. J. Madigan MSC.\
 Aust. Annales. Feb. 1929\
@@ -191,8 +194,9 @@ The New Church, which is of Gothic design, is constructed of galvanised iron lin
 
 A Church in the islands is usually not expensive. On account of the frequent earth tremors it is not possible to construct a church in anything but iron and timber, while the excessive heat makes it imperative to have large open spaces. This Church was raised at the minimum of cost. True it is that the Church is still unfinished and unfurnished in the interior, but our greatest worry - lack of accommodation has been overcome and the prayers of the Sisters, their pupils, and large number of poor natives will be offered with the Holy Mass for the many kind & friends of the mission in other lands whose strong faith and love for our Divine Lord inspired them to assist in what has already been accomplished.
 
+---
 
-### RABAUL ERUPTION AND THE MISSION
+## RABAUL ERUPTION AND THE MISSION
 
 J.G. Madigan, MSC.\
 Aust. Annales 1937 August\
@@ -226,8 +230,9 @@ At the entrance to Rabaul harbour are two open steaming craters, evidently joine
 
 With an administration permit I have four times visited the affected area. My two Churches still stand, but the people are scattered in all directions. Matupit now lies mid-way between the open craters. There are approximately 500 good natives Catholics on the island. Everything was in perfect order - Church, School, and well ordered village life. The administration is at present feeding through thousand of natives, whose grounds, it seems, will be unfit to grow foods for at least a year, or probably two. I have visited my people scattered in different places but can give them no assurance that we will be united again in our former places at Rabaul and Matupit.
 
+---
 
-### EXTRACTS FROM LETTERS TO SCHOLASTICS
+## EXTRACTS FROM LETTERS TO SCHOLASTICS
 
 Fr. Madigan MSC
 
@@ -268,8 +273,9 @@ Like most people who have received the light of Faith through conversion, they c
 
 Two of our Chinese boys from Rabaul are now in St. Joseph's College, Hunter's Hill, and others, of course, are in China. Next year the first from among the chinese of Rabaul will be ordained priest in China, so we will give him a reception when he returns here to visit his parents. This young man's brother is studying to be a Jesuit, and his sister made her perpetual vows as a nun last year. Check date of this in Aust. Annales..... 1st Oct. 1940 P 341.
 
+---
 
-### A NEW CATHOLIC SCHOOL FOR CHINESE CHILDREN IN NEW GUINEA
+## A NEW CATHOLIC SCHOOL FOR CHINESE CHILDREN IN NEW GUINEA
 
 By J. Madigan MSC\
 Aust Annales Dec. 1940
