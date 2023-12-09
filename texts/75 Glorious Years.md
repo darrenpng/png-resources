@@ -21,12 +21,14 @@
 - [Chapter 10 - Bishop Scharmach and War](#Chapter%20X.)
 - [Chapter 11 - Random Harvest](#Chapter%20XI.)
 
+
 ## 75 Glorious Years, 1882 - 1957
 
 *This is the Story of 75 Years since the First Catholic Missionaries landed in New Britain*
 
 By “MICHAEL”\
 Printed at the Catholic Mission Vunapope, P.O. Kokopo. T.N.G.
+
 
 ## FOREWORD.
 
