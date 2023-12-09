@@ -1,3 +1,11 @@
+## Notes
+
+| Transcription Date | Last Updated | By          |
+| ------------------ | ------------ | ----------- |
+| 07-Dec-2023        | 07-Dec-2023 | Darren Chung |
+
+---
+
 ## The Sacred Heart Parish Rabaul
 
 In 1924 Reverend Father Madigan M.S.C. was entrusted with the care of the Rabaul Parish. He was very concerned that there was no Cathollc School for the fast increasing Catholic Chinese Population.
