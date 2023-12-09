@@ -19,15 +19,15 @@ Should you wish to dive deeper into the history there's a list of publicly avail
 
 Being born in Australia, I am removed from the experiences that my parents (and their elders) had in PNG. I wanted to understand this history further and ensure that some of it is recorded before this becomes an impossible task.
 
-Much of this knowledge is fragmented; stored as loose documents in frayed manilla folders or survive as a fractured memory that's mentioned on occasion. I desire to save some of these stories before they get lost in the ether. 
+Much of this knowledge is fragmented; stored as loose documents in frayed manilla folders or survive as fractured memories that are mentioned on occasion. I desire to save some of these stories before they're forgotten. 
 
-It's additionally important to make this information highly accessible (and digestible) for whoever wants to engage.
+It's additionally important to make this information highly accessible (and digestible) for whoever wants to read this in future.
 
 
 ## Portal
 
 
-- Click here if you want a brief primer on the history of New Guinea.
+- [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) if you want a brief primer on the history of New Guinea.
 - Click here if you want to look through the catalogue of materials (with summaries).
 
 Or feel free to head straight to the "**Texts**" folder if you want to pick something to read. 
