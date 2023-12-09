@@ -6,7 +6,7 @@
 
 During the 19th Century there was increasing interest in the New Guinea region from European nations with a history of colonial conquest.
 
-During the 1870s and 1880s, German commercial firms began their foray into New Guinea. For the Germans, New Guinea was basically a business venture. Thousands of local workers were hired as cheap labor on cocoa and copra plantations.
+In the 1870s and 1880s, German commercial firms began their foray into New Guinea. For the Germans, New Guinea was basically a business venture. Thousands of local workers were hired as cheap labor on cocoa and copra plantations.
 
 In 1883, following a short-lived French annexation of New Ireland, the British Colony of Queensland annexed south-eastern New Guinea to the disapproval of superiors in the United Kingdom who refused to ratify the annexation. 
 
