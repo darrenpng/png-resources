@@ -1,9 +1,8 @@
-
 ## Notes
 
 | Transcription Date | Last Updated | By          |
 | ------------------ | ------------ | ----------- |
-| 05-Dec-2023        | 08-Dec-2023 | Darren Chung |
+| 05-Dec-2023        | 10-Dec-2023 | Darren Chung |
 
 
 ## Table of Contents
@@ -21,14 +20,12 @@
 - [Chapter 10 - Bishop Scharmach and War](#Chapter%20X.)
 - [Chapter 11 - Random Harvest](#Chapter%20XI.)
 
-
 ## 75 Glorious Years, 1882 - 1957
 
 *This is the Story of 75 Years since the First Catholic Missionaries landed in New Britain*
 
 By “MICHAEL”\
 Printed at the Catholic Mission Vunapope, P.O. Kokopo. T.N.G.
-
 
 ## FOREWORD.
 
@@ -62,7 +59,7 @@ It would be simple to commence with the landing of the first priests at Matupit 
 
 ### BEFORE THE MISSIONARIES CAME
 
-#### Our story begins, I suppose when Captain Buperry anchored his ship “Coquille” at Port Praslin (southern tip of New Ireland) on 12th August 1823.
+**Our story begins, I suppose when Captain Buperry anchored his ship “Coquille” at Port Praslin (southern tip of New Ireland) on 12th August 1823.**
 
 ***The Land of 300 Cannibal Kings***
 
@@ -151,7 +148,7 @@ And the Marquis de Rays? What of him? He was sent to prison for 6 years and fine
 
 ### THE COMING OF THE MISSIONARIES
 
-#### The immense Vicariate of Melanesia and Micronesia was entrusted to the Marist Fathers under the leadership of Bishop Epalle, who was killed at Isabelle (19-12-1845). Later the work was transferred to the Missionaries of Milan, whose last remaining Missionary killed on Woodlark Island (near Trobriand Group) in 1855.
+**The immense Vicariate of Melanesia and Micronesia was entrusted to the Marist Fathers under the leadership of Bishop Epalle, who was killed at Isabelle (19-12-1845). Later the work was transferred to the Missionaries of Milan, whose last remaining Missionary killed on Woodlark Island (near Trobriand Group) in 1855.**
 
 ***First Priests.***
 
@@ -252,7 +249,7 @@ Then they made their Capital at Kokopo. By 1910, they realized that it would be 
 
 ### NEW ARRIVALS
 
-#### While Father Navarre had been away, Father Gramaille remained. He lived at Volavolo with a trader called Dupré. He spent all his time doing medical work and he began a systematic collection of native words.
+**While Father Navarre had been away, Father Gramaille remained. He lived at Volavolo with a trader called Dupré. He spent all his time doing medical work and he began a systematic collection of native words.**
 
 In 1884, Father Hartzer (he was the son of Marie Louise the foundress Other Daughters of Our Lady of the Sacred Heart) together with Fathers Gaillard and Vatan and Brother de Santos came back with Father Navarre. Fathers Gramaille and Vatan stayed at Volavolo while Father Gaillard began the Mission at Malagunan.
 
@@ -327,7 +324,7 @@ After the war the Novitiate was re-opened but at Takabur.
 
 ### THE FOUNDATION OF THE DAUGHTERS OF OUR LADY OF THE SACRED HEART.
 
-#### It was in 1882 that the Congregation of the Daughters of Our Lady of the Sacred Heart was founded at Issoudun in France, be Rev. Fr. Jules Chevalier.
+**It was in 1882 that the Congregation of the Daughters of Our Lady of the Sacred Heart was founded at Issoudun in France, be Rev. Fr. Jules Chevalier.**
 
 Having obtained many remarkable favours from the Blessed Virgin, Fr. Chevalier had resolved, out of gratitude, to honour is heavenly Patroness in some special way. Inspired by the Holy Ghost, he conceived the idea of invoking Her under the new but profound and appealing invocations: *Our Lady of the Sacred Heart*.
 
@@ -380,7 +377,7 @@ Although the works of the apostolate are considered very important and necessary
 
 ### THE STORY OF THE CHINESE CATHOLIC COMMUNITY IN RABAUL.
 
-#### While the German New Guinea Company was in control in New Britain, it introduced some Chinese to work in plantations - most of whom soon became independent traders - others came from China as free settlers. The population of the Kokopo district (there was no big settlement in Rabaul) in 1903 was 277 Europeans, (182 Germans, 50 English, Dutch, French, Americans, etc.) and 91 Chinese, none of whom were Catholics, for indeed they had no contact with the Catholic Religion.
+**While the German New Guinea Company was in control in New Britain, it introduced some Chinese to work in plantations - most of whom soon became independent traders - others came from China as free settlers. The population of the Kokopo district (there was no big settlement in Rabaul) in 1903 was 277 Europeans, (182 Germans, 50 English, Dutch, French, Americans, etc.) and 91 Chinese, none of whom were Catholics, for indeed they had no contact with the Catholic Religion.**
 
 ***The Story Begins with Ah Lok***
 
@@ -514,7 +511,7 @@ NOTE: Ah Lok at his baptism took the name of Paul. He died on the feast of the c
 
 ### THE MISSIONARY SISTERS OF THE MOST SACRED HEART OF JESUS - By M.S.C. Sister
 
-#### The glorious motto: "May the Sacred Heart of Jesus be loved everywhere!", aptly sums up the aim and purpose of the congregation of the Missionary Sisters of the Most Sacred Heart of Jesus.
+**The glorious motto: "May the Sacred Heart of Jesus be loved everywhere!", aptly sums up the aim and purpose of the congregation of the Missionary Sisters of the Most Sacred Heart of Jesus.**
 
 This congregation was founded for the missions, and today it can boast of missionaries and missions in every land and clime and country.
 
@@ -559,7 +556,8 @@ Thus Christ's pleas for souls are answered by an M.S.C. Sister in various ways. 
 In the side of the Great Heart of Christ was this congregation conceived - in the blood of the Heart of Christ was it fructified through its martyrs - in the zeal of the Heart of Christ it has spread throughout the world - in the compassion of the Heart of Christ it administers to the needs of His Suffering members - and in the charity of the Heart of Christ it continues to spread until the fulfilment of its glorious motto be accomplished: "*May the Sacred Heart of Jesus be loved everywhere!*"
 
 ### THE BAINING MARTYRS.
-#### Two Orders of Sisters have had a very active share in the work of the Mission, the O.L.S.H. and the M.S.C. Sisters. Each has come to the assistance of the other in times of stress. After the annexation of New Britain by Germany in 1894, the O.L.S.H. Sisters were forbidden to enter the Territory, and then, after the 1914 - 1918 war, the Sisters from the German province, were prohibited by a similar bann, by the Australian Administration.
+
+**Two Orders of Sisters have had a very active share in the work of the Mission, the O.L.S.H. and the M.S.C. Sisters. Each has come to the assistance of the other in times of stress. After the annexation of New Britain by Germany in 1894, the O.L.S.H. Sisters were forbidden to enter the Territory, and then, after the 1914 - 1918 war, the Sisters from the German province, were prohibited by a similar bann, by the Australian Administration.**
 
 The Order of the M.S.C. Nuns was founded by Father Linckens, M.S.C., and was officially recognized in 1900. As early as the 16th November, 1902, seven M.S.C. Sisters set sail for New Britain. Indeed, this Order of Nuns was founded to assist this Mission. The Mission in return gave the first Superior General to the Order, Mother Francisca, who worked three years in New Britain. 
 
@@ -642,7 +640,7 @@ Our martyrs were one with Christ in the hard life of those difficult early days 
 
 ### WORLD WAR I.
 
-#### Previous to 1914 the German Government had been building a chain of wireless stations in Samoa, Nauru, New Guinea and Rabaul. So the Furthest German Colonial outpost could contact Berlin in a matter of hours. In time of war this would be extremely helpful to them and a real peril to their opponents. In fact, two days after war was declared in 1914 the British Secretary for Colonies requested the Australian Military Forces to attempt to seize these wireless installations in the Pacific.
+**Previous to 1914 the German Government had been building a chain of wireless stations in Samoa, Nauru, New Guinea and Rabaul. So the Furthest German Colonial outpost could contact Berlin in a matter of hours. In time of war this would be extremely helpful to them and a real peril to their opponents. In fact, two days after war was declared in 1914 the British Secretary for Colonies requested the Australian Military Forces to attempt to seize these wireless installations in the Pacific.**
 
 The Australian Government did not know the exact position of the wireless station reported to be near Rabaul. It was in fact at Bitapaka, and at the outbreak of war it was not completed. It was being built on the Telefunken system. There was a rubble jetty at Kabakaul from which the machinery was taken from boats and delivered along the track (present day road) to Bitapaka. There was virgin untouched jungle on each side of the road and it was almost impenetrable.
 
@@ -703,7 +701,7 @@ In August 1923, he went to Australia and lived at Douglas Park where he died in 
 
 ### MANUS (Admiralty Isls.) ......By Fr. Dahmen M.S.C.
 
-#### Manus 360 miles from Vunapope. Population 14000 ~ 35 different dialects. 2 main-tribes: Manus (before Paliau's time living on reefs - houses on piles; since Paliau living on the beach of the main land or on islands) and Usiai, the bush people; some of them have moved to the beach.
+**Manus 360 miles from Vunapope. Population 14000 ~ 35 different dialects. 2 main-tribes: Manus (before Paliau's time living on reefs - houses on piles; since Paliau living on the beach of the main land or on islands) and Usiai, the bush people; some of them have moved to the beach.**
 
 ***First Contact***
 
@@ -854,7 +852,7 @@ At present in Manus we have:-
 
 ### BISHOP VESTERS
 
-#### Bishop Vesters was born at VEIGHT in Holland. He completed his major studies at Rome and was ordained priest in 1914. He became secretary to the Bishop of Lippa in the Phillippines. He worked as a missionary in Brazil. In 1915 he was made Prefect Apostolic of the Celebes and in 1923 Vicar Apostolic of Rabaul. He was consecrated Bishop by Bishop Coupe in August of that same year.
+**Bishop Vesters was born at VEIGHT in Holland. He completed his major studies at Rome and was ordained priest in 1914. He became secretary to the Bishop of Lippa in the Phillippines. He worked as a missionary in Brazil. In 1915 he was made Prefect Apostolic of the Celebes and in 1923 Vicar Apostolic of Rabaul. He was consecrated Bishop by Bishop Coupe in August of that same year.**
 
 ***He Aims to Extend***
 
@@ -897,7 +895,8 @@ Bishop Vesters was ailing and being unable to travel, asked to resign. In 1938 h
 At the Golden Jubilee of his priesthood he ordained Father Bata at Vuvu. He died in 1954.
 
 ### THE RUMBLE OF VOLCANOES.
-#### As we all know, Rabaul today is built on a sloping shore of a deep harbour. Originally there was no harbour but in its place was a very tall mountain probably 8 thousand feet high. One can imagine the bulk of this mountain if one looks from North Daughter at the circle of mountains around the harbour. It is clear that these ridges are only the worn down stumps of one mighty mountain. Some titanic volcano tore the heart out of this mountain and left only a big crater. The south wall of this crater was worn down by either another eruption or the weather and the sea broke in to form a harbour. The other, craters around the rim are only parasitic - much like pimples forming on a face. They are well named Daughters......but they are not daughters to the Mother mountain for the oldest was the North Daughter, next South Daughter, then Mother mountain, then Cambiu, Tavurvur, and (youngest) Vulcan. It is interesting to note that the two last major recent eruptions began under the harbour.
+
+**As we all know, Rabaul today is built on a sloping shore of a deep harbour. Originally there was no harbour but in its place was a very tall mountain probably 8 thousand feet high. One can imagine the bulk of this mountain if one looks from North Daughter at the circle of mountains around the harbour. It is clear that these ridges are only the worn down stumps of one mighty mountain. Some titanic volcano tore the heart out of this mountain and left only a big crater. The south wall of this crater was worn down by either another eruption or the weather and the sea broke in to form a harbour. The other, craters around the rim are only parasitic - much like pimples forming on a face. They are well named Daughters......but they are not daughters to the Mother mountain for the oldest was the North Daughter, next South Daughter, then Mother mountain, then Cambiu, Tavurvur, and (youngest) Vulcan. It is interesting to note that the two last major recent eruptions began under the harbour.**
 
 ***History***
 
@@ -949,7 +948,7 @@ The Governor-General made a personal visit and thanked the Missionaries for thei
 
 ### BISHOP SCHARMACH AND WAR.
 
-#### The Most Reverend Leo Scharmach was born in Stargard, Poland. He attended the Apostolic Schools at Hiltrup, and completed his Major studies at Oeventrop. He did medical work in the first world war and was awarded the Iron Cross. He came to New Britain in 1925 and was stationed at Mope with the Sulka tribe. He later worked at Guma and Pililo. He was consecrated Bishop October 3rd 1939. There was war in Europe and Military Law in Rabaul.
+**The Most Reverend Leo Scharmach was born in Stargard, Poland. He attended the Apostolic Schools at Hiltrup, and completed his Major studies at Oeventrop. He did medical work in the first world war and was awarded the Iron Cross. He came to New Britain in 1925 and was stationed at Mope with the Sulka tribe. He later worked at Guma and Pililo. He was consecrated Bishop October 3rd 1939. There was war in Europe and Military Law in Rabaul.**
 
 The news of Pearl Harbour broke on the world on the 8th December 1941. Up to this time people in Rabaul hoped that New Britain was too unimportant to attract an enemy's attention. But, after Pearl Harbour they knew they would be in the fighting zone. Events began to move swiftly in the Pacific. The Japanese swarmed South and soon Rabaul felt war's hot breath on its necks. On January 4th 1942, 2 p.m. twenty Japanese planes in an attempt to destroy the Matupit airstrip) bombed the native hospital. It needed no prophet now to foretell the future. The Japanese had designs on Rabaul and when they came they could not be resisted because Australia had obeyed the League of Nations' injunction that this Mandated Territory was not to be armed. On January 20th, eighteen Dive Bombers strafed a mission boat on the North Coast killing the Captain and wounding a priest and a nun. By the 22nd the enemy had silenced the few guns and anti-aircraft batteries in Rabaul. The way was now wide open!
 
@@ -1054,7 +1053,7 @@ So passed a faithful Catechist loyal to the end and having fulfilled the promise
 - M.S.C. Sisters 43
 - Native Sisters 30
 
-#### Towards the end of 1945 some of the fathers made periodic visits to the nearer stations Rakunai, Tapo etc. The Bishop went to Port Moresby and bought the Waimana and military equipment. At Manus he procured machinery and quonset huts to re-build the Mission.
+**Towards the end of 1945 some of the fathers made periodic visits to the nearer stations Rakunai, Tapo etc. The Bishop went to Port Moresby and bought the Waimana and military equipment. At Manus he procured machinery and quonset huts to re-build the Mission.**
 
 In 1946 the Waimana went around New Britain and set down priests at the stations. At Vunamarita, Fr. Stapleman; At Valoka, Fr. Sweiger; At Talasea Fr. Franke: At Unca Er. Jürgens (This was one station that was not destroyed); Fr. Askew went to Marunga.
 
@@ -1079,7 +1078,7 @@ Christ will reign!!
 
 ### RANDOM HARVEST
 
-#### It will be a pity if somebody does not soon gather together the memories of the many colourful personalities who have lived in these islands in the last 75 years. Queen Emma is likely to become a legend, but legend can never take the place of history...and such people as the Sun worshippers (Europeans who lived on Kabakon island who lived on fruit and dressed in sunshine) are likely to be forgotten. It is no place to recall them here. However we would like to gather together in this final chapter a random harvest of names and facts which have not been mentioned in this booklet and which we consider would be a pity to neglect.
+**It will be a pity if somebody does not soon gather together the memories of the many colourful personalities who have lived in these islands in the last 75 years. Queen Emma is likely to become a legend, but legend can never take the place of history...and such people as the Sun worshippers (Europeans who lived on Kabakon island who lived on fruit and dressed in sunshine) are likely to be forgotten. It is no place to recall them here. However we would like to gather together in this final chapter a random harvest of names and facts which have not been mentioned in this booklet and which we consider would be a pity to neglect.**
 
 ***Mrs. Tabuchi.***
 
