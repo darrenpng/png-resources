@@ -9,8 +9,8 @@
 75 Glorious Years is a collection of tales written through the lens of the Catholic Missionaries who arrived in New Guinea alongside Germany's colonial expansion in the region. [Chapter 5](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md#chapter-v) is specifically about the Chinese Catholics in Rabaul.
 
 I transcribed this book in full due to it's rarity and the physical copy (in my mother's possession) being in poor condition.
-
 <br/>
+
 ## [A Vision At Mass - The Annals](https://github.com/darrenpng/png-resources/blob/main/texts/A%20Vision%20At%20Mass.md)
 
 | Download | Type    | Published   | Author |
