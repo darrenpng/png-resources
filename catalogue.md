@@ -2,6 +2,7 @@
 
 ### [75 Glorious Years, 1882 - 1957](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md)
 
+
 | Characteristic | Details |
 | -------------- | ------- |
 | Author         | Michael |
