@@ -1,4 +1,4 @@
-**Last Updated**: 09-Dec-2023
+**Last Updated**: 11-Dec-2023
 
 ---
 
@@ -26,9 +26,8 @@ It's additionally important to make this information highly accessible (and dige
 
 ## Portal
 
-
-- [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) if you want a brief primer on the history of New Guinea.
-- Click here if you want to look through the catalogue of materials (with summaries).
+- [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) for a brief primer on the history of New Guinea.
+- [Click here](https://github.com/darrenpng/png-resources/blob/main/catalogue.md) to browse the catalogue of materials with summaries.
 
 Or feel free to head straight to the "**Texts**" folder if you want to pick something to read. 
 
