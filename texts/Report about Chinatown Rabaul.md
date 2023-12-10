@@ -2,7 +2,7 @@
 
 | Transcription Date | Last Updated | By          |
 | ------------------ | ------------ | ----------- |
-| 07-Dec-2023        | 07-Dec-2023 | Darren Chung |
+| 07-Dec-2023        | 10-Dec-2023 | Darren Chung |
 
 ---
 
@@ -38,7 +38,7 @@ From old documents and statements made by residents, Major Cummins was able to o
 
 - The New Guinea Coy. and Forsythe, who had established themselves at Kokopo since 1897, were reluctant to remove to Rabaul, as the Capital had already been moved six times since 1885, and their vested interests had suffered.
 
-- In 1907 pressure was brought to bear, and the large firms were compelled to buy land from the Norther German Lloyd for business purposes and remove to Rabaul.
+- In 1907 pressure was brought to bear, and the large firms were compelled to buy land from the North German Lloyd for business purposes and remove to Rabaul.
 
 - At that time there was no labour available to erect the new town, and Hernsheim & Coy. endeavoured to obtain a grant of land on the condition that they would supply indentured labour but Governor Hahl, who had reluctantly consented to the remove of the Capital, and being of the opinion that a considerable amount of victimization had been practised by the North German Lloyd, monopoly of the town lands, refused to grant a further monopoly to an already powerful firm.
 
