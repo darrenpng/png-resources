@@ -8,7 +8,7 @@
 
 ## SKETCH OF RABAUL ACCORDING TO THE PIONEERS
 
-### JOHN ACHAI
+### John Achai
 
 16 years in Singapore, then in 1897 served as a cook at Muiko Island for Mrs. Souz, a German. He came out 3 years before Grandpa Gabriel. After 2 years left service and opened shop and copra business in an island off Muiko, also for 2 years. He said: easily get 'skace' for plantation and cargoes from German bose who got them from Germany, no ships from Hong Kong yet. Maximum no. of Chinese was 30.
 
@@ -16,7 +16,7 @@ Then went back to China to procure a wife - back after 6 months - stayed at Muik
 
 He then stayed at Calais, his own plantation - easy labour.
 
-### AN ADVENTURE
+### An Adventure
 
 His boat was wreck at East side of New Ireland, went ashore lived there for 1 month then Grand-pa found his raft manned by a few natives, eventually found him too; then sailing boat was refloated by stripping bamboo poles onto the bottomless boat.
 
@@ -28,13 +28,13 @@ In 1930 came out of New Ireland. Lee Tam, the first Chinese, opened a general st
 
 1994 German Admin. at Kokopo. During 1917 war, there were about 100 Chinese.
 
-### EDUCATION - SCHOOLS
+### Education - Schools
 
 Seeto Koon opened some sort of school at Administration - Methodist songs and works. Catholics objected and started Yang Ching.
 
 1921 prohibition of Chinese entry, there were about 300, no slavery in Rabaul; in Madang and in German times, yes. Germany had no soldiers here when Australian invaded the place.
 
-### THE GERMAN OCCUPATION
+### The German Occupation
 
 At about 1804 the capital or the District Commissioner's residence was at first situated in Kokopo which was connected by a track to Matupit, Rabaul being bush then. In 1901 a few Germans in Matupit. At Kokopo 5, all a Bishop with his priests.
 
@@ -45,7 +45,7 @@ Lee Tam was seemingly the first Chinese to come to Rabaul as a slave imported by
 
 During the occupation restriction on entry of immigrants was enforced (but the cunning skill of the Chinese got passed that.)
 
-### CHOW CHEW
+### Chow Chew
 
 1901 Rabaul was not yet opened. At Matupit Hanson's business of copra and store was opened.
 
@@ -53,11 +53,11 @@ Lee Tam married to a native woman had many kids; opened store and copra business
 
 On his arrival Ah Lok and Achai, Mr. Seeto as Carpenter. All Chinese from Singapore.
 
-### ENGLISH OCCUPATION (AUSTRALIAN)
+### English Occupation (Australian)
 
 German occupied New Britain and New Ireland from late 19th to about 1914. The Great war began in more important parts of the world but these insignificant island also took part in the great calamity. For in 1914 and English Fleet came to invade this places. Some of these ships cruised around from Nodup to Kokopo for a month. In the meantime sending in scouts to found out the enemy strength. The germans were mostly civilians and being few in number, abandoned the town of Rabaul. And fled to Toma. They took with them all the money, and valuables to the mountain and with help of natives buried them. The situation being favourable to the invaders they attacked and occupied the Town, then they pushed on towards Toma. An English Doctor pedalling on the mountain was ambushed and killed by the Germans. These were punished by the soldiers (English).
 
-### CHOW YING
+### Chow Ying
 
 Chow Loong, who was Grand-pa's brother and Achok's father, came to Rabaul but did not send letter home. Mum was worried and so Grand-pa promised to look for him. After 2 years apprenticeship, got letter from Lo Chin... whom he met in Hong Kong. (He went to Hong Kong by boat.) There he met carpenters and worked for 6 months; then being called by brother, he came to Matupit. Chow Loong after one year returned. (to China)
 
@@ -84,7 +84,8 @@ When Grand-pa first arrived he worked as native labour agent for Lee Tam, after 
 - 1916 a two-storey building, at the present side of Sing Yip, is put up.
 	- Akun sons were taken out of this methodist inclined school and teacher (Buck Foon!!). They went to the makeshift school at Sing Yip which served also as library. Man Kai Kong and Wo Sam Ching were the new teachers from Hong Kong to replace Buck Foon.
 
-### RAPHAEL CHOW S.J.'S COMMENTS
+
+### Raphael Chow S.J.'s Comments
 
 Ah Lok was converted after the vision he saw at Church during Benediction - he went there out of curiosity primarily. He inquired about the religion in his sing-song, Chinese fashion, which gradually lead him to the fold of the Church.
 
@@ -240,24 +241,27 @@ In 1925 sisters from Kensington opened the Yang Ching School who now has a total
 
 There are about 800 whites, 2000 Asiatics & from two to three thousands blacks in the town, perhaps just before the War II.
 
-#### RABAUL 31st MAY, 1939
+#### Rabaul 31st May, 1939
 
 At present we are enlarging the Church here in Rabaul when complete the building will hold about twice the present number of whites, blacks and brindles. Now they cannot get inside the Church on Sundays. I am at present engaged in squeezing some of the "magnates" for a little cash, and so far I cannot complain. Sister Editha is on the Rabaul Staff at present, and is in charge of the Chinese School. The experience she gained with the Chinese on Thursday is has been advantageous to her work here. The Chinese in Rabaul are the best portion of my large cosmopolitan congregation. At present a commission is taking evidence on the advisability or the the "reverse" (?) of combining this place with Papua; with Papua as the seat of Government. No one seems to care about the commission. Already two old guns have been cemented on the crest of a hill just outside Port Moresby, in case the Japs come looking for an opening. The only thing that troubles us about the whole business is the effect it will have on the activities of the Mission. Adolf Hitler or Ole King Cole can take up residence here, if they will not interfere with the work of the Catholic Mission.
 
-#### FR. HARRIS M.S.C ........ July 29th 1941
+
+#### Fr. Harris M.S.C ........ July 29th 1941
 
 The old crater of Rabaul has been giving more trouble. When we arrived the sisters, Chinese and malayas and others were evacuated to safer parts and the place was in a very unpleasant state. The new Chinese school got a very great shower of pumice and all its external beauty has gone as well as half its pupils. These will return, possibly. Brass candle sticks, knobs, medals, Sisters' chaplets are ruined. The gases emanating from the crater have burnt or discoloured them beyond repair. The sisters' large rosaries are as if burnt in the fire and they have special rust proof chains for the tropics. People have great work trying to keep their dwellings clean, and just as things are a little in order the crater gives another cough and sends a fine shower of pumice over all.
 
-#### D. CcCULLAGH M.S.C.
+#### D. CcCullagh M.S.C.
 
 Vunapope 6th Dec. 1941
 
 "... Rabaul is fast becoming a city of death - The Volcano on its outskirts has been erupting for long periods since June and the dust and pumice and sulphur fumes have been pouring over the town, as a result, everything is desolate, great avenues of trees have been completely killed and there is scarcely a green blade or leaf to be found there. Every metal object has become tarnished, people are beginning to feel that if their insides are not yet affected they soon will be. Consequently the Govern. has shifted to Lae on the Mainland and the civilian population will soon be evacuated too. Unfortunately they are coming to this part and the new township will be adjacent to the mission - in fact will encroach into Mission property to the extent of 100 acres probably. This will be a bad thing for the mission who up till now has enjoyed the advantage of being at a comfortable distance from the town.
 
-#### MADIGAN MARCH 1925 Annales P 333
+
+#### Madigan March 1925 Annales P 333
 
 "while we were at dinner, a chinaman arrived in an old motor car and informed me that a poor halfcast girl was dying in a hut some miles away. After administrating the last Sacrament to the unfortunate I return to Rabaul .. for Benediction. Who was it?? the Chinese of Rabaul.
 
+---
 
 ### CHINESE CATHOLICS IN RABAUL
 
