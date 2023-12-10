@@ -1,6 +1,6 @@
 **Last Updated**: 11-Dec-2023
 
-### [75 Glorious Years, 1882 - 1957](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md)
+## [75 Glorious Years, 1882 - 1957](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md)
 
 75 Glorious Years is a collection of tales written through the lens of the Catholic Missionaries who arrived in New Guinea alongside Germany's colonial expansion in the region. [Chapter 5](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md#chapter-v) is specifically about the Chinese Catholics in Rabaul.
 
