@@ -29,7 +29,7 @@ It's additionally important to make this information highly accessible (and dige
 - [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) for a brief primer on the history of New Guinea.
 - [Click here](https://github.com/darrenpng/png-resources/blob/main/catalogue.md) to browse the catalogue of materials with summaries.
 
-Or feel free to head straight to the "**Texts**" folder if you want to pick something to read. 
+Or feel free to head straight to the "**[Texts](https://github.com/darrenpng/png-resources/tree/main/texts)**" folder if you want to pick something to read. 
 
 If you have any questions about this page, please send me an email at darren.png@outlook.com.
 
