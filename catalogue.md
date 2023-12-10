@@ -10,6 +10,7 @@
 
 I transcribed this book in full due to it's rarity and the physical copy (in my mother's possession) being in poor condition.
 
+<br/>
 ## [A Vision At Mass - The Annals](https://github.com/darrenpng/png-resources/blob/main/texts/A%20Vision%20At%20Mass.md)
 
 | Download | Type    | Published   | Author |
