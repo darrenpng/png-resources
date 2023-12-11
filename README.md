@@ -55,6 +55,3 @@ If you have any questions about this page, please send me an email at darren.png
 | Chinese in Rabaul 1945 - 1975                         | Peter Cahill   | 2017      | [Buy](https://www.copyright.net.au/1/home/same-same-but-different-chinese-in-rabaul-1945-1975) | -      |
 | Chinese in Papua New Guinea - Practices in Sojourning | Tetsu Ichikawa | 2006      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjuxTBMboUSO5A3tt-?e=RKrZMu)                          | 366KB  |
 | Sacred Heart School - For the Sake of the Children    | Sylvia Chow    | 2007      | [Buy](https://catalogue.nla.gov.au/catalog/3993323)                                            | -      |
-|                                                       |                |           |                                                                                                |        |
-
-
