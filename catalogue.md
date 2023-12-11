@@ -50,6 +50,14 @@ Gabriel Chow Ying (my great-grandfather) recounts events between 1901 to the Jap
 
 The Brigadier-General (possibly [George Johnston](https://adb.anu.edu.au/biography/johnston-george-jameson-6861)) writing to The Secretary of the Department of Defence, outlining steps to be taken to seize control of land (and other assets) in Rabaul's Chinatown from Ah Tam.
 
+## [The Opening of New Catholic Church in Rabaul](https://github.com/darrenpng/png-resources/blob/main/texts/The%20Opening%20of%20New%20Catholic%20Church%20in%20Rabaul.md)
+
+| Download                                                 | Type              | Published   | Author |
+| -------------------------------------------------------- | ----------------- | ----------- | ------ |
+| [Link](https://1drv.ms/b/s!AvQ55TzuN2kjuzoBEF4zREsgcA-L) | Newspaper Article | 24-May-1928 | Fr. Joseph Madigan M.S.C.       |
+
+Father Madigan reflects on the opening of [St Francis Xavier's Church](https://maps.app.goo.gl/QjuKuL4SYji4JEN47) in Rabaul.
+
 ## [The Sacred Heart Parish Rabaul](https://github.com/darrenpng/png-resources/blob/main/texts/The%20Sacred%20Heart%20Parish%20Rabaul.md)
 
 | Download                                                 | Type       | Published | Author  |
