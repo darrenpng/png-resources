@@ -23,7 +23,6 @@ Much of this knowledge is fragmented; stored as loose documents in frayed manill
 
 It's additionally important to make this information highly accessible (and digestible) for whoever wants to read this in future.
 
-
 ## Portal
 
 - [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) for a brief primer on the history of New Guinea.
@@ -33,5 +32,29 @@ Or feel free to head straight to the "**[Texts](https://github.com/darrenpng/png
 
 If you have any questions about this page, please send me an email at darren.png@outlook.com.
 
-
 ## Additional Resources
+
+### Websites
+
+| Title                              | Main Site                                                       | Google Cache                                                                                                                                |
+| ---------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| New Guinea                         | [Link](https://www.britannica.com/place/New-Guinea)             | [Link](https://webcache.googleusercontent.com/search?q=cache:https://www.britannica.com/place/New-Guinea&sca_esv=589705956&strip=1&vwsrc=0) |
+| German New Guinea Company          | [Link](https://en.wikipedia.org/wiki/German_New_Guinea_Company) | [Link](https://webcache.googleusercontent.com/search?q=cache:https://en.wikipedia.org/wiki/German_New_Guinea_Company)                       |
+| Territory of New Guinea            | [Link](https://en.wikipedia.org/wiki/Territory_of_New_Guinea)   | [Link](https://webcache.googleusercontent.com/search?q=cache:https://en.wikipedia.org/wiki/Territory_of_New_Guinea)                         |
+| Territory of Papua                 | [Link](https://en.wikipedia.org/wiki/Territory_of_Papua)        | [Link](https://webcache.googleusercontent.com/search?q=cache:https://en.wikipedia.org/wiki/Territory_of_Papua)                              |
+| Chinese people in Papua New Guinea | [Link](https://en.wikipedia.org/wiki/Chinese_people_in_Papua_New_Guinea)                                                        | [Link](https://webcache.googleusercontent.com/search?q=cache:https://en.wikipedia.org/wiki/Chinese_people_in_Papua_New_Guinea)              |
+
+### Reading Materials
+
+| Title                                                 | Author         | Published | Source                                                                                         | Size   |
+| ----------------------------------------------------- | -------------- | --------- | ---------------------------------------------------------------------------------------------- | ------ |
+| Taim Bilong Masta                                     | Hank Nelson    | 1982      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjuz3pc7WTR0xnUOxw)                                   | 56.2MB |
+| They Came to Matupit                                  | Mary Mennis    | 1972      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjoTWFGeVpltHBgOi7)                                   | 33.6MB |
+| Chinese Free Settlers in the Bismarck Archipelago     | Peter Cahill   | 1973      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjoTSCVGvB0EPfTNwU)                                   | 2.3MB  |
+| Chinese in Rabaul 1884 - 1960                         | Peter Cahill   | 2012      | [Buy](https://www.copyright.net.au/1/home/needed-but-not-wanted-chinese-in-rabaul)             | -      |
+| Chinese in Rabaul 1945 - 1975                         | Peter Cahill   | 2017      | [Buy](https://www.copyright.net.au/1/home/same-same-but-different-chinese-in-rabaul-1945-1975) | -      |
+| Chinese in Papua New Guinea - Practices in Sojourning | Tetsu Ichikawa | 2006      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjuxTBMboUSO5A3tt-?e=RKrZMu)                          | 366KB  |
+| Sacred Heart School - For the Sake of the Children    | Sylvia Chow    | 2007      | [Buy](https://catalogue.nla.gov.au/catalog/3993323)                                            | -      |
+|                                                       |                |           |                                                                                                |        |
+
+
