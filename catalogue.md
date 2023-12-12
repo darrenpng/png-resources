@@ -1,4 +1,4 @@
-**Last Updated**: 11-Dec-2023
+**Last Updated**: 12-Dec-2023
 
 ## [75 Glorious Years, 1882 - 1957](https://github.com/darrenpng/png-resources/blob/main/texts/75%20Glorious%20Years.md)
 
@@ -50,6 +50,14 @@ Gabriel Chow Ying (my great-grandfather) recounts events between 1901 to the Jap
 
 The Brigadier-General (possibly [George Johnston](https://adb.anu.edu.au/biography/johnston-george-jameson-6861)) writing to The Secretary of the Department of Defence, outlining steps to be taken to seize control of land (and other assets) in Rabaul's Chinatown from Ah Tam.
 
+## [Sun Yau Years](https://github.com/darrenpng/png-resources/blob/main/texts/Sun%20Yau%20Years.md)
+
+| Download                                                 | Type | Published   | Author            |
+| -------------------------------------------------------- | ---- | ----------- | ----------------- |
+| [Link](https://1drv.ms/b/s!AvQ55TzuN2kju0ApM6BhEeyw3ytg?e=MKxz6b) | Note | 2007 (approx) | Joseph Chow | 
+
+Joseph recounts the years between 1948 and 1952 in Rabaul, with specific mention to his time at the Sacred Heart School, which was a successor to the Yang Ching School. It appears that this document has multiple contributors.
+
 ## [The Opening of New Catholic Church in Rabaul](https://github.com/darrenpng/png-resources/blob/main/texts/The%20Opening%20of%20New%20Catholic%20Church%20in%20Rabaul.md)
 
 | Download                                                 | Type              | Published   | Author |
@@ -67,3 +75,11 @@ Father Madigan reflects on the opening of [St Francis Xavier's Church](https://m
 A recount of starting the first Chinese school (St Teresa's Yang Ching School) in 1925, and the first church in Rabaul. These institutions were destroyed by the [Tavurvur eruption in 1937](https://en.wikipedia.org/wiki/Rabaul#Rabaul_(Tavurvur)_volcano:_6_June_1937_eruption) and the Japanese invasion in World War II. 
 
 The Sacred Heart School was built in 1947 to replace the Yang Ching School.
+
+## [The Story of a Remarkable Convert](https://github.com/darrenpng/png-resources/blob/main/texts/The%20Story%20of%20a%20Remarkable%20Convert.md)
+
+| Download                                                 | Type              | Published   | Author |
+| -------------------------------------------------------- | ----------------- | ----------- | ------ |
+| [Link](https://1drv.ms/b/s!AvQ55TzuN2kjuzIUkiOVcGGP4PFM?e=wydtaJ) | Article | 01-May-1939 | Fr. Joseph Madigan M.S.C.       |
+
+A recount by Father Madigan of Paul Ah Lok and his prominent role as a devoted Catholic convert.
