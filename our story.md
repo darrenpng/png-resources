@@ -1,4 +1,4 @@
-**Last Updated**: 13-Dec-2023
+**Last Updated**: 13-Dec-2023\
 **Next Additions**: Missionaries, Schools
 
 ---
