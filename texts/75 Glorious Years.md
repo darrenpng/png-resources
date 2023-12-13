@@ -2,7 +2,7 @@
 
 | Transcription Date | Last Updated | By          |
 | ------------------ | ------------ | ----------- |
-| 05-Dec-2023        | 10-Dec-2023 | Darren Chung |
+| 05-Dec-2023        | 13-Dec-2023 | Darren Chung |
 
 
 ## Table of Contents
@@ -59,7 +59,7 @@ It would be simple to commence with the landing of the first priests at Matupit 
 
 ### BEFORE THE MISSIONARIES CAME
 
-**Our story begins, I suppose when Captain Buperry anchored his ship “Coquille” at Port Praslin (southern tip of New Ireland) on 12th August 1823.**
+**Our story begins, I suppose when Captain Duperry anchored his ship “Coquille” at Port Praslin (southern tip of New Ireland) on 12th August 1823.**
 
 ***The Land of 300 Cannibal Kings***
 
@@ -71,7 +71,7 @@ How was he to know that it rained in Port Praslin for eight months of the year? 
 
 Fifty years later, a nobleman of France, Charles du Briel, Marquis de Rays read Duperry’s veritable Eden. Having read it, the Marquis smiled and said “Here will I be King. To this place I will lead my people!” Years before, a fortune teller said that one day he would be a king……
 
-Indeed, he had attempted several times to set up a Kingdom in Madagascar, Indo-China, and was considering even Western Australia. But now. he was sure, God was calling him. New Ireland would be his Kingdom. No country had as yet claimed that part of Oceania. He would call It NEW FRANCE, including Ireland, New Britain, the Solomons and part of New Guinea.
+Indeed, he had attempted several times to set up a Kingdom in Madagascar, Indo-China, and was considering even Western Australia. But now. he was    sure, God was calling him. New Ireland would be his Kingdom. No country had as yet claimed that part of Oceania. He would call It NEW FRANCE, including Ireland, New Britain, the Solomons and part of New Guinea.
 
 "What a stupid idea!" you say. No doubt! But it could easily have succeeded. What did he need to be successful? Money? It was given to him, somewhere between £20,000 and £500.000. Did he need people to settle his kingdom? They flocked to him thousands. Did he want good land to settle? Just look at the rich plantations and natural Wealth of the district today. Then, why did he fail? Well, it's a long story, but if you are still interested I'll tell you.......
 
