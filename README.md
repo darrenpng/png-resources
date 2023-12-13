@@ -1,4 +1,4 @@
-**Last Updated**: 11-Dec-2023
+**Last Updated**: 13-Dec-2023
 
 ---
 
@@ -26,6 +26,7 @@ It's additionally important to make this information highly accessible (and dige
 ## Portal
 
 - [Click here](https://github.com/darrenpng/png-resources/blob/main/history.md) for a brief primer on the history of New Guinea.
+- [Click here](https://github.com/darrenpng/png-resources/blob/main/our%20story.md) for our story.
 - [Click here](https://github.com/darrenpng/png-resources/blob/main/catalogue.md) to browse the catalogue of materials with summaries.
 
 Or feel free to head straight to the "**[Texts](https://github.com/darrenpng/png-resources/tree/main/texts)**" folder if you want to pick something to read. 
@@ -55,3 +56,4 @@ If you have any questions about this page, please send me an email at darren.png
 | Chinese in Rabaul 1945 - 1975                         | Peter Cahill   | 2017      | [Buy](https://www.copyright.net.au/1/home/same-same-but-different-chinese-in-rabaul-1945-1975) | -      |
 | Chinese in Papua New Guinea - Practices in Sojourning | Tetsu Ichikawa | 2006      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjuxTBMboUSO5A3tt-?e=RKrZMu)                          | 366KB  |
 | Sacred Heart School - For the Sake of the Children    | Sylvia Chow    | 2007      | [Buy](https://catalogue.nla.gov.au/catalog/3993323)                                            | -      |
+| Tavurvur Eruption in 1994                             | Raphael Chow   | 1999      | [Download](https://1drv.ms/b/s!AvQ55TzuN2kjuz4RHPj5yQ8Dsl0Q?e=OGZqIF)                          | 10.1MB       |
